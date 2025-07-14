@@ -1,7 +1,8 @@
 # THData
 
 Repositorio para el análisis de evaluación de competencias utilizando Streamlit.
-IMPORTANTE: La app.py tiene actualizaciones por lo que se recomienda cambiar ese archivo en su ruta o clon de git creado en su equipo
+
+###IMPORTANTE: La app.py tiene actualizaciones por lo que se recomienda cambiar ese archivo en su ruta o clon de git creado en su equipo
 
 ---
 
