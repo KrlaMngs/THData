@@ -5,6 +5,8 @@ Repositorio para el análisis de evaluación de competencias utilizando Streamli
 ### IMPORTANTE:
 La app.py tiene actualizaciones por lo que se recomienda cambiar ese archivo en su ruta o clon de git creado en su equipo
 
+Tambien se adjunta un archivo Excel para que se pueda realizar la carga del mismo y visualizar los datos en la reporteria con comentarios.
+
 ---
 
 ## Estructura del proyecto
