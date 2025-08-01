@@ -4,3 +4,4 @@ numpy
 matplotlib
 xlrd>=2.0.1
 openpyxl
+fpdf==1.7.2
